@@ -1,0 +1,7 @@
+mss
+Pillow
+PyAudio
+openai
+google-generativeai
+python-dotenv
+keyboard
