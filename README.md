@@ -25,7 +25,7 @@ Viden é um assistente de desenvolvimento inteligente que utiliza a tela do usu�
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/viden.git
+   git clone https://github.com/joseook/viden.git
    cd viden
    ```
 
